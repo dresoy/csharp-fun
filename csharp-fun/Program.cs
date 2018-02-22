@@ -13,8 +13,9 @@ namespace csharp_fun
 
             Console.ForegroundColor = ConsoleColor.Yellow;
 
-            MinimumInteger.Run();
-            BinaryGap.Run();
+            //MinimumInteger.Run();
+            //BinaryGap.Run();
+            OddOccurrencesInArray.Run();
 
             Console.WriteLine("Press any key to Exit");
             Console.Read();
